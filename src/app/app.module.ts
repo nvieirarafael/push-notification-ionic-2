@@ -11,10 +11,10 @@ import { CloudSettings, CloudModule } from '@ionic/cloud-angular';
 
 const cloudSettings: CloudSettings = {
   'core': {
-    'app_id': 'your-ionic-cloud-app-id'
+    'app_id': '5efe0ae0'
   },
   'push': {
-    'sender_id': 'your-android-FCM-id',
+    'sender_id': '399751114792',
     'pluginConfig': {
       'ios': {
         'badge': true,
